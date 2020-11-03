@@ -59,18 +59,4 @@ end
 
 
 
-# class Song
 
-# @@count = 0
-
-# def initialiize(name)
-  # @@name = name
-  # @@count += 1
-# end
-
-# def add_song(name,)
-
-# def self.count
-  # @@count
-# end
-# end
